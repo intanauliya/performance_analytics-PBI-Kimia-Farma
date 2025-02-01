@@ -6,4 +6,5 @@ This project was a final project in Project-Based Internship program by Rakamin 
 
 # Content
 As Big Data Analytics Interns at Kimia Farma, our role involves tackling various challenges that demand a deep understanding of data and strong analytical skills. One of the important projects will be evaluating Kimia Farma's business performance from 2020 to 2023 using data-driven insight.
+
 **Dataset**
