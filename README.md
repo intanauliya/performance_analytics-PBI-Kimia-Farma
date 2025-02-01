@@ -35,7 +35,7 @@ In this project, we will use several tools, including:
 - **Microsoft PowerPoint**: for presentation of our work
   
 ### Tasks 🎯
-- In this project, we are tasked with importing the provided datasets (`Dataset.rar`) into tables in BigQuery. The table names should match the dataset names, excluding the ".csv" extension.
+- In this project, we are given task to import the provided datasets (`Dataset.rar`) into tables in BigQuery. The table names should match the dataset names, excluding the ".csv" extension.
 - we are also required to create an analysis table based on aggregated results from the previously imported tables. The following columns are mandatory for the analysis table:
   - `transaction_id`: transaction ID code,
   - `date`: the date the transaction occurred,
@@ -92,8 +92,8 @@ link : [Google Looker Studio : Dashboard](link)
 file name : `FinalTask_KimiaFarma_BDA_Intan Auliya.pptx`
 
 #### GitHub Repository 📁
-Link : [](link)
+Link : [performance_analytics-PBI-Kimia-Farma](link)
 
 
 ## Let's Connect! 🌐  
-- [LinkedIn](https://www.linkedin.com/in/suyanto-zhang/)
+- [LinkedIn](https://www.linkedin.com/in//)
