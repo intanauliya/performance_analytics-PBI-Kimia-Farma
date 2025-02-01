@@ -79,9 +79,7 @@ The `Syntax and Result.rar` file contains the following SQL and CSV files:
 #### Google Looker Studio : Dashboard 📈
 link : [Google Looker Studio : Dashboard](link)
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/891e5109-8808-4829-a3fd-0a0e4b6e80d2" alt="Overview Page">
-  <img src="https://github.com/user-attachments/assets/b80e26f5-22ad-4cca-a95f-69073e9b4645" alt="Detailed Page">
-  <img src="https://github.com/user-attachments/assets/b8395184-523a-4ad8-9b64-674c6abc001c" alt="Inventory Page">
+
 </p>
 
 #### Google Drive 🎥
