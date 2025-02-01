@@ -13,7 +13,6 @@ This project was a final project in Project-Based Internship program by Rakamin 
 <p align="justify">
 Kimia Farma is the first pharmaceutical company in Indonesia. Founded by the Dutch East Indies Government with initially named NV Chemicalien Handle Rathkamp & Co. It was nationalized in 1958 and renamed PNF Bhinneka Kimia Farma. The company transitioned to PT Kimia Farma (Persero) in 1971 and became a publicly listed company in 2001, establishing itself as an integrated healthcare provider contributing significantly to Indonesia's health sector.
 In 2020, 90.025% of Kimia Farma's shares were transferred ownership to PT Bio Farma (Persero), forming the State-Owned Pharmaceutical Holding. Along with this restructuring, the company’s name changed to PT Kimia Farma Tbk. With decades of experience, Kimia Farma is a state-owned company (BUMN) member and continues to play a vital role in national health development.
-website : [kimiafarma.co.id](https://www.kimiafarma.co.id/)
 </p>
 
 # Content
@@ -21,6 +20,9 @@ website : [kimiafarma.co.id](https://www.kimiafarma.co.id/)
 As Big Data Analytics Interns at Kimia Farma, our role involves tackling various challenges that demand a deep understanding of data and strong analytical skills. One of the important projects will be evaluating Kimia Farma's business performance from 2020 to 2023 using data-driven insight.
 
 **Dataset** 📊
-In this project, 
-
+In this project, we were provided 4 CSV tables
+- **kf_final_transaction.csv** : customer transaction details
+- **kf_inventory.csv** : product inventory stocks
+- **kf_kantor_cabang.csv** : branch store details
+- **kf_product.csv** : product details
 </p>
