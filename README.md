@@ -71,10 +71,9 @@ In this project, we will use several tools, including:
   - **Additional analysis that we can explore**
 
 ### Results
-#### BigQuery 📊
-The `Syntax and Result.rar` file contains the following SQL and CSV files:  
+#### BigQuery 📊 
 - **query_business_performance_analysis.sql**: [SQL BigQuery](https://console.cloud.google.com/bigquery?sq=29651332863:f780718709804c418e2d05bd9b8cb699)  
-- **kf_business_performance_analysis.csv**: CSV file containing the result of the `query_business_performance_analysis.sql` file  
+- **kf_business_performance_analysis.csv**: [CSV Table Analysis](https://console.cloud.google.com/bigquery?ws=!1m5!1m4!4m3!1srakamin-kf-analytics-449607!2skimia_farma!3skf_business_performance_analysis)
 
 #### Google Looker Studio : Dashboard 📈
 link : [Google Looker Studio : Dashboard](link)
