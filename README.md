@@ -90,7 +90,7 @@ link : [Google Looker Studio : Dashboard](link)
 file name : `FinalTask_KimiaFarma_BDA_Intan Auliya.pptx`
 
 #### GitHub Repository 📁
-Link : [performance_analytics-PBI-Kimia-Farma](link)
+Link : [performance_analytics-PBI-Kimia-Farma](https://github.com/intanauliya/performance_analytics-PBI-Kimia-Farma)
 
 
 ## Let's Connect! 🌐  
