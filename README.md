@@ -94,4 +94,4 @@ Link : [performance_analytics-PBI-Kimia-Farma](https://github.com/intanauliya/pe
 
 
 ## Let's Connect! 🌐  
-- [LinkedIn](www.linkedin.com/in/intanauly)
+- [LinkedIn](https://linkedin.com/in/intanauly)
