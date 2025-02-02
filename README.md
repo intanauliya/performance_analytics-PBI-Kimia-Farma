@@ -77,7 +77,7 @@ The `Result.rar` file contains the following SQL and CSV files:
 - **kf_business_performance_analysis.csv**: CSV file containing the result of the `kf_business_performance_analysis.csv` file 
 
 #### Google Looker Studio : Dashboard 📈
-link : [Google Looker Studio : Dashboard](https://lookerstudio.google.com/reporting/1bfea5d2-5886-4f5a-ad90-12cefea7df53)
+Link : [Google Looker Studio : Dashboard](https://lookerstudio.google.com/reporting/1bfea5d2-5886-4f5a-ad90-12cefea7df53)
 <p align="center">
 
 </p>
