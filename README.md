@@ -83,7 +83,7 @@ Link : [Google Looker Studio : Dashboard](https://lookerstudio.google.com/report
 </p>
 
 #### Google Drive 🎥
-[](link)
+[Video Presentation](https://drive.google.com/file/d/1F2TOVHvIPYknROqDrZqQKED_mGbPEhdz/view?usp=sharing)![image](https://github.com/user-attachments/assets/e1171814-ed68-4e22-9fe5-771be8410035)
 
 
 #### Microsoft Power Point 📝
