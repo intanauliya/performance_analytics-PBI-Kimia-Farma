@@ -73,7 +73,7 @@ In this project, we will use several tools, including:
 ### Results
 #### BigQuery 📊 
 The `Result.rar` file contains the following SQL and CSV files:
-- **query_business_performance_analysis.sql**: [SQL BigQuery](https://console.cloud.google.com/bigquery?sq=29651332863:f780718709804c418e2d05bd9b8cb699)  
+- **query_business_performance_analysis.sql**: [SQL BigQuery](https://console.cloud.google.com/bigquery?sq=29651332863:0827ff59f42b443d8d7c689e2e4c1fb9)  
 - **kf_business_performance_analysis.csv**: CSV file containing the result of the `kf_business_performance_analysis.csv` file 
 
 #### Google Looker Studio : Dashboard 📈
