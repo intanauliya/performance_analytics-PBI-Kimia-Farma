@@ -32,7 +32,7 @@ In this project, we will use several tools, including:
 - **Google Looker Studio**: for creating visualization dashboards,
 - **Google Drive**: for video presentations,
 - **GitHub**: for storing query files and results,
-- **Microsoft PowerPoint**: for presentation of our work
+- **Microsoft PowerPoint**: for presentation
   
 ### Tasks 🎯
 - In this project, we are given task to import the provided datasets (`Dataset.rar`) into tables in BigQuery. The table names should match the dataset names, excluding the ".csv" extension.
