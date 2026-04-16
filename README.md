@@ -17,7 +17,7 @@ In 2020, 90.025% of Kimia Farma's shares were transferred ownership to PT Bio Fa
 
 # Content
 <p align="justify">
-As Big Data Analytics Interns at Kimia Farma, our role involves tackling various challenges that demand a deep understanding of data and strong analytical skills. One of the important projects will be evaluating Kimia Farma's business performance from 2020 to 2023 using data-driven insight.
+As Big Data Analytics Interns at Kimia Farma, my role involves tackling various challenges that demand a deep understanding of data and strong analytical skills. One of the important projects will be evaluating Kimia Farma's business performance from 2020 to 2023 using data-driven insight.
 
 ### Dataset 📊
 In this project, we are provided 4 CSV tables
